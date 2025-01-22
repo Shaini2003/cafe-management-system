@@ -1,6 +1,6 @@
 ﻿namespace cafe_management_system.Models
 {
-    public class employees
+    public class Employee
     {
         public int Id { get; set; }
         public string FirstName { get; set; }
